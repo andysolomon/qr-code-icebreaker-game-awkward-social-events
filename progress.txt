@@ -1,5 +1,5 @@
 ## Phase 1: Foundation
-[ ] W-000001 (ARC-11) Scaffold repository, CI/CD, and semantic-release
+[x] W-000001 (ARC-11) Scaffold repository, CI/CD, and semantic-release
 [ ] W-000002 (ARC-12) Convex backend initialization and core schema
 [ ] W-000003 (ARC-13) Clerk authentication for venue owners [HITL]
 [ ] W-000004 (ARC-14) shadcn/ui setup and shared layout shell
