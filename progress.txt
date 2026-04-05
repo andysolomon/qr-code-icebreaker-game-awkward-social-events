@@ -1,0 +1,36 @@
+## Phase 1: Foundation
+[ ] W-000001 (ARC-11) Scaffold repository, CI/CD, and semantic-release
+[ ] W-000002 (ARC-12) Convex backend initialization and core schema
+[ ] W-000003 (ARC-13) Clerk authentication for venue owners [HITL]
+[ ] W-000004 (ARC-14) shadcn/ui setup and shared layout shell
+[ ] W-000005 (ARC-15) Venue CRUD mutations and queries
+[ ] W-000006 (ARC-16) Seed prompt packs and pack selection
+
+## Phase 2: Core Interaction Loop
+[ ] W-000007 (ARC-17) QR code generation and display
+[ ] W-000008 (ARC-18) Anonymous patron session creation via QR scan
+[ ] W-000009 (ARC-19) Prompt delivery to patron
+[ ] W-000010 (ARC-20) Response capture
+[ ] W-000011 (ARC-21) Shared prompt board (real-time)
+[ ] W-000012 (ARC-22) Patron experience polish (mobile UX, loading, errors)
+
+## Phase 3: Venue Dashboard + Analytics
+[ ] W-000013 (ARC-23) Venue onboarding wizard
+[ ] W-000014 (ARC-24) Session activity metrics (real-time)
+[ ] W-000015 (ARC-25) Daily and weekly summary views
+[ ] W-000016 (ARC-26) Prompt rotation controls
+[ ] W-000017 (ARC-27) Venue settings page
+[ ] W-000018 (ARC-28) Dashboard home with multi-venue overview
+
+## Phase 4: Subscription + Growth
+[ ] W-000019 (ARC-29) Stripe integration and subscription model [HITL]
+[ ] W-000020 (ARC-30) Subscription gating and free trial
+[ ] W-000021 (ARC-31) Branded/custom prompt campaigns
+[ ] W-000022 (ARC-32) Multi-venue support
+
+## Phase 5: Quality + Release
+[ ] W-000023 (ARC-33) Jest unit tests for Convex functions
+[ ] W-000024 (ARC-34) Playwright E2E: Patron play flow
+[ ] W-000025 (ARC-35) Playwright E2E: Venue owner dashboard flow [HITL]
+[ ] W-000026 (ARC-36) Deployment hardening and Vercel configuration [HITL]
+[ ] W-000027 (ARC-37) Smoke test suite and health check endpoint
