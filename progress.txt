@@ -32,5 +32,5 @@
 [ ] W-000023 (ARC-33) Jest unit tests for Convex functions
 [ ] W-000024 (ARC-34) Playwright E2E: Patron play flow
 [ ] W-000025 (ARC-35) Playwright E2E: Venue owner dashboard flow [HITL]
-[ ] W-000026 (ARC-36) Deployment hardening and Vercel configuration [HITL]
+[x] W-000026 (ARC-36) Deployment hardening and Vercel configuration [HITL]
 [ ] W-000027 (ARC-37) Smoke test suite and health check endpoint
